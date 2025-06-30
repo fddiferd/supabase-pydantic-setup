@@ -12,7 +12,6 @@ dependencies = [
     "supabase (>=2.16.0,<3.0.0)",
     "dotenv (>=0.9.9,<0.10.0)",
     "pydantic (>=2.0.0,<3.0.0)",
-    "supadantic (>=0.0.10,<0.0.11)"
 ]
 
 [build-system]
